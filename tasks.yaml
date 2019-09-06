@@ -1,0 +1,12 @@
+
+hamilton:
+  suffix: hamilton
+  video_path: short_hamilton_clip.mp4
+  model_path: /lab/20180402-114759/facenet.pb
+  umap: false
+  delay: 200
+  parameters:
+    hdbscan__min_cluster_size: 5    
+process_hamilton:
+  task: process_video
+  config: hamilton  
