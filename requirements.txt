@@ -24,7 +24,7 @@ mkl-random==1.0.2
 mkl-service==2.0.2
 mtcnn==0.0.9
 numba==0.45.1
-numpy==1.16.4
+numpy==1.22.0
 pandas==0.25.1
 patsy==0.5.1
 protobuf==3.9.1
